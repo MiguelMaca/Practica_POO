@@ -57,4 +57,4 @@ while a == 0:
     elif opcion == 5:
         a = 1
     else:
-        print("Opcion no Valida")
+        print("Opcion no Encontrada")
